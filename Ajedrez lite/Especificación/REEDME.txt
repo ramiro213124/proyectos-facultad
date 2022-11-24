@@ -1,0 +1,1 @@
+Este trabajo consiste en especificar en lógica de primer orden problemas relacionados a una versión simplificada del Ajedrez.
