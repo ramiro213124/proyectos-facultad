@@ -1,0 +1,1 @@
+Esta parte del trabajo consiste en especificar en lógica de primer orden una versión modificada del Ajedrez.
